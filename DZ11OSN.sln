@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ11OSN", "DZ11OSN\DZ11OSN.csproj", "{99DED93F-A9AA-412F-B2AD-57D0FD1A1890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz11TUMAKOV", "dz11TUMAKOV\dz11TUMAKOV.csproj", "{EBE9B1DF-0F7A-47C0-B52A-1C265597F396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bank", "..\..\..\..\Desktop\bank\bank.csproj", "{0AB6447F-5CDA-424D-8CB2-2BF41EBAD598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DED93F-A9AA-412F-B2AD-57D0FD1A1890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DED93F-A9AA-412F-B2AD-57D0FD1A1890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DED93F-A9AA-412F-B2AD-57D0FD1A1890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DED93F-A9AA-412F-B2AD-57D0FD1A1890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE9B1DF-0F7A-47C0-B52A-1C265597F396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE9B1DF-0F7A-47C0-B52A-1C265597F396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE9B1DF-0F7A-47C0-B52A-1C265597F396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE9B1DF-0F7A-47C0-B52A-1C265597F396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB6447F-5CDA-424D-8CB2-2BF41EBAD598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB6447F-5CDA-424D-8CB2-2BF41EBAD598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB6447F-5CDA-424D-8CB2-2BF41EBAD598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB6447F-5CDA-424D-8CB2-2BF41EBAD598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B832AC5-2FFE-40DC-9983-05391B72FAF0}
+	EndGlobalSection
+EndGlobal
